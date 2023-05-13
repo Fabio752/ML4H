@@ -1,0 +1,11 @@
+Model,Temperature,Max Tokens,Aware of Drug's Existance,Drug Detection Error Rate,Correct DBID Rate,Correct Drugs
+gpt-3.5-turbo,0.0,512,Yes,5.0 %,0 %,30.0 %
+gpt-3.5-turbo,0.25,512,Yes,15.0 %,0 %,30.0 %
+gpt-3.5-turbo,0.5,512,Yes,5.0 %,0 %,35.0 %
+gpt-3.5-turbo,0.75,512,No,,,
+gpt-3.5-turbo,1.0,512,No,,,
+gpt-4,0.0,512,Yes,5.0 %,0 %,30.0 %
+gpt-4,0.25,512,Yes,0.0 %,0 %,45.0 %
+gpt-4,0.5,512,Yes,0.0 %,10.0 %,50.0 %
+gpt-4,0.75,512,Yes,5.0 %,0 %,20.0 %
+gpt-4,1.0,512,Yes,10.0 %,5.0 %,35.0 %
