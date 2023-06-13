@@ -92,7 +92,7 @@ analysis_df = pd.DataFrame(columns=["Model", "Temperature", "Max Tokens",
                                     "Correct DBID Rate", "Correct Drugs"])
 
 # OpenAI Setup
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "<INSERT-YOUR-KEY>"
 questions_file = "questions.txt"
 
 model_list = ["gpt-3.5-turbo", "gpt-4"]
